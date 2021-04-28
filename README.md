@@ -2,7 +2,7 @@
   <h3>Hi, I'm Suresh!</h3>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=iamsureshraju&color=232f3e&style=flat-square">
-    <a href="www.linkedin.com/in/rajusuresh" target="_blank">
+    <a href="https://www.linkedin.com/in/rajusuresh" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-232f3e?style=flat-square&logo=LinkedIn&logoColor=white">
     </a>
     <a href="https://dotsuresh.com/blog/" target="_blank">
@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=000)
-![](https://img.shields.io/badge/-NodeJS-f7df1e?style=flat-square&logo=node-dot-js&logoColor=339933)
+![](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=339933)
 
 ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
